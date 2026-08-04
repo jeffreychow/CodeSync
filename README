@@ -1,5 +1,7 @@
 = CodeSync =
 
+Retro project
+
 This is a mac utility that uses rsync to immediately synchronize file
 changes to a server or remote computer, as you work.
 
